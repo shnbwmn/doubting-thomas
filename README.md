@@ -1,4 +1,4 @@
-# doubting-thomas
+# Doubting Thomas
 Resources and links for those who doubt their faith. This page will be updated as I find more good content.
 
 ### General sites
