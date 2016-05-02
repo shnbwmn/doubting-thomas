@@ -1,7 +1,7 @@
 # Doubting Thomas
 Resources and links for those who doubt their faith. This page will be updated as I find more good content.
 
-If you have stumbled across this page and have anything to add, please do so under the [additions](https://github.com/shnbwmn/doubting-thomas/tree/additions) branch. Feel free to start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for further discussion of something.
+If you have stumbled across this page and have any links to add, please do so under the [additions](https://github.com/shnbwmn/doubting-thomas/tree/additions) branch. Feel free to start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for further discussion of something.
 
 ### General sites
 
