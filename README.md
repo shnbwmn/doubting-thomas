@@ -6,6 +6,7 @@ If you have stumbled across this page and have any links to add, please do so un
 ### General sites
 
 * [Patheos](http://www.patheos.com/)
+* [Got Questions?](http://www.gotquestions.org/) (very good)
 
 ### Blog posts
 
