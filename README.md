@@ -6,6 +6,7 @@ If you have stumbled across this page and have any (good) links to add, create a
 ### General sites
 
 * [Patheos](http://www.patheos.com/)
+	* [Atheist channel](http://www.patheos.com/Atheist)
 * [Got Questions?](http://www.gotquestions.org/) (very good)
 
 ### Blog posts
