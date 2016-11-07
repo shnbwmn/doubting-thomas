@@ -5,8 +5,7 @@ Please ensure your pull request adheres to the following:
 
 * Conform to the format used for other links:
 * `[Title](link) - Optional comment`
-* Create an appropriate but concise title.
-* Capitalise titles appropriately.
+* Format titles appropriately. Conciseness preferred.
 * Briefly state the relevance of your contribution.
 * Check your spelling and grammar.
 * If necessary, search previous suggestions before making a new one.
