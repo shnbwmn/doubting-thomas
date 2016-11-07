@@ -34,7 +34,7 @@ Please read the [Contribution Guidelines](https://github.com/shnbwmn/doubting-th
 
 ### Software
 
-> Many of these programs are portable (self-contained, no installation) and have extra modules available for download. Unless stated otherwise, all programs are free.
+> Many of these programs are [portable](https://github.com/shnbwmn/awesome-portable) (self-contained, no installation) and have extra modules available for download. Unless stated otherwise, all programs are free.
 
 * [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) - fast KJV lookup
 * [BibleAnalyzer](http://www.bibleanalyzer.com/)
