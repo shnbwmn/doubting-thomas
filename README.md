@@ -1,6 +1,6 @@
 # Doubting Thomas
 
-> Resources and links for those who doubt their faith.
+> Curated resources and links for those who doubt their faith.
 
 Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add links | Start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for discussions.
 
@@ -9,6 +9,10 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 * [Patheos](http://www.patheos.com/)
 	* [Atheist channel](http://www.patheos.com/Atheist)
 * [Got Questions?](http://www.gotquestions.org/) - very good
+
+### Online reading
+
+* [BibleGateway](https://www.biblegateway.com/) - many translations, nice site
 
 ### Blog posts
 
@@ -20,3 +24,14 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 ### Youtube
 
 * [Miracles For Sale](https://www.youtube.com/watch?v=iuP5uOI7Xwc) - very good
+
+### Software
+
+* [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml)
+* [BibleAnalyzer](http://www.bibleanalyzer.com/)
+* [The Word](http://www.theword.net/index.php?)
+* [BPBible](https://github.com/bpbible/bpbible)
+* [Xiphos](http://xiphos.org/)
+* [Davar4](http://www.davar3.net/)
+* [BibleTime](http://bibletime.info/)
+* [Ready Bible Study and Reference](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
