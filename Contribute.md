@@ -3,11 +3,12 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+* Conform to the format I've used for other links:
+* `[Title](link) - Optional comment.`
 * The pull request, commit and link should have a useful title.
 * Capitalise link titles appropriately.
 * Briefly state why each link should be included.
 * Check your spelling and grammar.
-* Conform to the format I've used for other links.
 * If necessary, search previous suggestions before making a new one.
 * New categories or improvements to the existing categorization are welcome.
 * Make an individual pull request for each suggestion.
