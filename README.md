@@ -1,3 +1,4 @@
+
 # Doubting Thomas
 
 > Curated resources and links for those who doubt their faith.
@@ -30,8 +31,13 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 * [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml)
 * [BibleAnalyzer](http://www.bibleanalyzer.com/)
 * [The Word](http://www.theword.net/index.php?)
+* [e-Sword](http://www.e-sword.net/)
 * [BPBible](https://github.com/bpbible/bpbible)
 * [Xiphos](http://xiphos.org/)
 * [Davar4](http://www.davar3.net/)
 * [BibleTime](http://bibletime.info/)
 * [Ready Bible Study and Reference](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
+
+
+
+
