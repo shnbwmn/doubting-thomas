@@ -2,7 +2,7 @@
 
 > Resources and links for those who doubt their faith.
 
-Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add links | Start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for further discussions.
+Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add links | Start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for discussions.
 
 ### General sites
 
