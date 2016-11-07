@@ -11,6 +11,6 @@ Please ensure your pull request adheres to the following:
 * If necessary, search previous suggestions before making a new one.
 * New categories or improvements to the existing categories are welcome.
 
-Thank you for your suggestions!
+Thanks for your suggestions!
 
 *Format of this file adapted from [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides/blob/master/contribute.md)*.
