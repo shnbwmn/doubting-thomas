@@ -24,7 +24,7 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 
 ### Articles
 
-* [Universalism: If there is a Good God, Everyone Must Go to Heaven](http://www.vexen.co.uk/religion/universalism.html)
+* [Universalism: If there is a Good God, Everyone Must Go to Heaven](http://www.vexen.co.uk/religion/universalism.html) - worth consideration
 
 ### Youtube
 
