@@ -4,7 +4,7 @@
 Please ensure your pull request adheres to the following:
 
 * Conform to the format used for other links:
-* `[Title](link) - Optional comment`
+* `[Title](link) - optional comment`
 * Format titles appropriately.
 * Briefly state the relevance of your contribution.
 * Check your spelling and grammar.
