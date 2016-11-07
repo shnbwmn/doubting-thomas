@@ -5,6 +5,8 @@
 
 Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add links | Start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for discussions.
 
+Please read the [Contribution Guidelines](https://github.com/shnbwmn/doubting-thomas/blob/master/Contribute.md) before submitting a PR.
+
 ### General sites
 
 * [Patheos](http://www.patheos.com/)
