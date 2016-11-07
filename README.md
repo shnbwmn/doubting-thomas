@@ -13,7 +13,7 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 
 ### Online reading
 
-* [BibleGateway](https://www.biblegateway.com/) - many translations, nice site
+* [BibleGateway](https://www.biblegateway.com/) - many translations and languages, nice site
 
 ### Blog posts
 
