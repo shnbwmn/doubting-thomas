@@ -12,5 +12,3 @@ Please ensure your pull request adheres to the following:
 * New categories or improvements to the existing categories are welcome.
 
 Thanks for your suggestions!
-
-*Format of this file adapted from [awesome-styleguides](https://github.com/RichardLitt/awesome-styleguides/blob/master/contribute.md)*.
