@@ -22,13 +22,17 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 * [Don’t Thank God For “Miraculously” Vanishing Cancer](http://www.patheos.com/blogs/barrierbreaker/dont-thank-god-for-miraculously-vanishing-cancer/)
 * [40 Problems with Christianity](http://www.patheos.com/blogs/friendlyatheist/2014/08/26/40-problems-with-christianity/) - explains Roman favouritism and Paul's gospel in historical context
 
+### Articles
+
+* [Universalism: If there is a Good God, Everyone Must Go to Heaven](http://www.vexen.co.uk/religion/universalism.html)
+
 ### Youtube
 
 * [Miracles For Sale](https://www.youtube.com/watch?v=iuP5uOI7Xwc) - very good
 
 ### Software
 
-> Many of these programs are portable (self-contained, no installation) and have extra modules available to download
+> Many of these programs are portable (self-contained, no installation) and have extra modules available to download. Unless stated otherwise, all programs are free.
 
 * [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) - fast KJV lookup
 * [BibleAnalyzer](http://www.bibleanalyzer.com/)
