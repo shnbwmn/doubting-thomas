@@ -28,7 +28,7 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 
 ### Software
 
-> Many of these programs are portable (self-contained, no installation) and have many extra modules available to download
+> Many of these programs are portable (self-contained, no installation) and have extra modules available to download
 
 * [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) - fast KJV lookup
 * [BibleAnalyzer](http://www.bibleanalyzer.com/)
