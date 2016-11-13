@@ -34,17 +34,10 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 
 ### Software
 
-> Many of these programs are [portable](https://github.com/shnbwmn/awesome-portable) (self-contained, no installation) and have extra modules available for download. Unless stated otherwise, all programs are free.
+> These programs need to be installed. For portable programs, see  [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable/blob/master/README.md#religion). Unless stated otherwise, all programs are free.
 
-* [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) - fast KJV lookup
-* [BibleAnalyzer](http://www.bibleanalyzer.com/)
-* [The Word](http://www.theword.net/index.php?)
 * [e-Sword](http://www.e-sword.net/)
-* [BPBible](https://github.com/bpbible/bpbible)
 * [Xiphos](http://xiphos.org/)
-* [Davar4](http://www.davar3.net/)
-* [BibleTime](http://bibletime.info/)
-* [Ready Bible Study and Reference](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
 
 ## License
 
