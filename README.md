@@ -34,7 +34,7 @@ Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add
 
 ### Software
 
-> These programs need to be installed. For portable programs, see  [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable/blob/master/README.md#religion). Unless stated otherwise, all programs are free.
+> These programs need to be installed. For many more programs, see [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable/blob/master/README.md#religion). Unless stated otherwise, all programs are free.
 
 * [e-Sword](http://www.e-sword.net/)
 * [Xiphos](http://xiphos.org/)
