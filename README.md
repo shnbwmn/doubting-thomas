@@ -5,8 +5,6 @@
 
 Create a [pull request](https://github.com/shnbwmn/doubting-thomas/pulls) to add links | Start an [issue](https://github.com/shnbwmn/doubting-thomas/issues) for corrections and discussions
 
-**_Note:_** this is not intended to be biased towards atheism, agnosticism or faith. I simply list links I've come across that have helped me to see different perspectives and arguments, and that I hope will assist others. If the links tend to favour an atheistic/agnostic viewpoint, it's because I come from a faith background, however all viewpoints are welcome. Please respect this and other users.
-
 **_Software:_** [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable/blob/master/README.md#religion), [Non-Portable](https://github.com/shnbwmn/awesome-portable/blob/master/Non-Portable.md#religion) & [**Awesome Online**](https://github.com/shnbwmn/awesome-online/blob/master/README.md#bible-study).
 
 ### General sites
